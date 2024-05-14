@@ -28,7 +28,7 @@ you can also set these in `config.json` file
 ## Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD STAR AND FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youesky/TeraboxedBot)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tusarpatel/TeraboxedBot)<br>
 
 
 ## Commands
